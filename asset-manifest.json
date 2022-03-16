@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Text-Hub/static/css/main.abd64e84.css",
+    "main.js": "/Text-Hub/static/js/main.fbe9e554.js",
+    "static/js/787.51102d4a.chunk.js": "/Text-Hub/static/js/787.51102d4a.chunk.js",
+    "static/media/logo.jpg": "/Text-Hub/static/media/logo.113a7a7cf11b22c6638b.jpg",
+    "index.html": "/Text-Hub/index.html",
+    "main.abd64e84.css.map": "/Text-Hub/static/css/main.abd64e84.css.map",
+    "main.fbe9e554.js.map": "/Text-Hub/static/js/main.fbe9e554.js.map",
+    "787.51102d4a.chunk.js.map": "/Text-Hub/static/js/787.51102d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.fbe9e554.js"
+  ]
+}
